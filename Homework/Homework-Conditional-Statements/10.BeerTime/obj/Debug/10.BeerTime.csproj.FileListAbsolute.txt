@@ -1,0 +1,2 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache

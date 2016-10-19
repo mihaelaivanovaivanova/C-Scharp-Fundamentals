@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\bin\Debug\16.Trailing0inN!.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\bin\Debug\16.Trailing0inN!.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\bin\Debug\16.Trailing0inN!.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\obj\Debug\16.Trailing0inN!.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\obj\Debug\16.Trailing0inN!.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\16.Trailing0inN!\obj\Debug\16.Trailing0inN!.csprojResolveAssemblyReference.cache

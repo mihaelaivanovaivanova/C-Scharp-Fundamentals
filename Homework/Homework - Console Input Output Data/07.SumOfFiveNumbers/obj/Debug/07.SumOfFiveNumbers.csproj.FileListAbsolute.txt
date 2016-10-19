@@ -1,0 +1,9 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

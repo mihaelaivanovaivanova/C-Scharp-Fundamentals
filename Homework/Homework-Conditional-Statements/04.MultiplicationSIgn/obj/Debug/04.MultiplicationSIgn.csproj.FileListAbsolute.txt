@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\04.MultiplicationSIgn\bin\Debug\04.MultiplicationSIgn.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\04.MultiplicationSIgn\bin\Debug\04.MultiplicationSIgn.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\04.MultiplicationSIgn\bin\Debug\04.MultiplicationSIgn.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\04.MultiplicationSIgn\obj\Debug\04.MultiplicationSIgn.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\04.MultiplicationSIgn\obj\Debug\04.MultiplicationSIgn.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\bin\Debug\07.FirstLastName.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\obj\Debug\07.FirstLastName.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\bin\Debug\07.FirstLastName.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\bin\Debug\07.FirstLastName.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\obj\Debug\07.FirstLastName.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\07.FirstLastName\obj\Debug\07.FirstLastName.pdb

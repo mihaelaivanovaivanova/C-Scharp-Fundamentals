@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

@@ -1,0 +1,18 @@
+1. JAVA - Java is an opened source language, owned and maintained by the Oracle coorporation.It is suitable for software development for computers, smart phones
+	  and even smart TVs.
+	  Java is concurrent, class-based and object-oriented language. Java code can be ran on all platforms that support Java without the need for recompilation.
+	  Programs written in Java have the reputation of being slower and requiring more memory than those written in C++. Java uses an automatic garbage collector
+	  to manage memory i the object lyfecycle. Itssyntax is largely influenced by C++.
+2. C - 
+
+3. C++ - C++ in a difference with C that is usually used for "close to the machine" software like operating sstems, is used for higher level applications like 
+	 accounting software or videogame engines. C++ has imperative, object-oriented and genetic programming features, while simultaneously providing facilities
+	 for low-level memory manipulations.
+	 It is designed mainly for system programming and embedded, resaurce-constraned and large systems. C++ inherits most of C's syntax.
+
+4. JavaScript - 
+
+5. PHP - 
+
+6. Phyton - 
+

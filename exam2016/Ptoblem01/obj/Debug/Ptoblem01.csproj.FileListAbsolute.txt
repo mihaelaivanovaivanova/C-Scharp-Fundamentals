@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\bin\Debug\Ptoblem01.exe.config
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\bin\Debug\Ptoblem01.exe
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\bin\Debug\Ptoblem01.pdb
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\obj\Debug\Ptoblem01.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\obj\Debug\Ptoblem01.exe
+C:\Users\Mihaela\Desktop\C#\exam2016\Ptoblem01\obj\Debug\Ptoblem01.pdb

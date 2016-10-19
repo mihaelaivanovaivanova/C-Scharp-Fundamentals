@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\02.GravitationOnTeMoon\bin\Debug\02.GravitationOnTeMoon.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\02.GravitationOnTeMoon\bin\Debug\02.GravitationOnTeMoon.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\02.GravitationOnTeMoon\bin\Debug\02.GravitationOnTeMoon.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\02.GravitationOnTeMoon\obj\Debug\02.GravitationOnTeMoon.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\02.GravitationOnTeMoon\obj\Debug\02.GravitationOnTeMoon.pdb

@@ -1,0 +1,3 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

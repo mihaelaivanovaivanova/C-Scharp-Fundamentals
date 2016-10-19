@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\bin\Debug\15.GCD.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\bin\Debug\15.GCD.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\bin\Debug\15.GCD.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\obj\Debug\15.GCD.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\obj\Debug\15.GCD.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\15.GCD\obj\Debug\15.GCD.pdb

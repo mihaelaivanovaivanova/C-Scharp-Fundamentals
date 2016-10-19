@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\bin\Debug\14.HexToDecimal.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\bin\Debug\14.HexToDecimal.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\bin\Debug\14.HexToDecimal.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\obj\Debug\14.HexToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\obj\Debug\14.HexToDecimal.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\14.HexToDecimal\obj\Debug\14.HexToDecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\bin\Debug\10.EmploeeData.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\bin\Debug\10.EmploeeData.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\bin\Debug\10.EmploeeData.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\obj\Debug\10.EmploeeData.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\10.EmploeeData\obj\Debug\10.EmploeeData.pdb

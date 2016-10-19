@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck\bin\Debug\04.PrintADeck.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck\bin\Debug\04.PrintADeck.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck\bin\Debug\04.PrintADeck.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck\obj\Debug\04.PrintADeck.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck\obj\Debug\04.PrintADeck.pdb

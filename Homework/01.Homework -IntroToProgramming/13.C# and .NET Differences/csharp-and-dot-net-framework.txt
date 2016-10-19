@@ -1,0 +1,4 @@
+.NET is a framework created by Microsoft that provides "ground" for applications , which are created to use it. These applications can be created using different 
+languages: C# (very common). Visual Basic.NET, F#, Managed C++ and others. .NET Framework defines the rules and supporting libraries that othe languages shall use.
+
+C# is a programming language for an easy use in practically any purpose - mainly used by .NET developer.	

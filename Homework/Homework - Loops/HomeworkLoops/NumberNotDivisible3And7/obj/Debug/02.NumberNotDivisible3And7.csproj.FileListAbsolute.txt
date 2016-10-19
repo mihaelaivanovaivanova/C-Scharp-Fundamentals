@@ -1,0 +1,3 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumberNotDivisible3And7\bin\Debug\NumberNotDivisible3And7.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumberNotDivisible3And7\obj\Debug\NumberNotDivisible3And7.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\NumberNotDivisible3And7\obj\Debug\NumberNotDivisible3And7.pdb

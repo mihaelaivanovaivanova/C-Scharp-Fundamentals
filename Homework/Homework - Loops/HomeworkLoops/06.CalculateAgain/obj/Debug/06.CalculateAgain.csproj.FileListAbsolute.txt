@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\bin\Debug\06.CalculateAgain.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\obj\Debug\06.CalculateAgain.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\obj\Debug\06.CalculateAgain.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\06.CalculateAgain\obj\Debug\06.CalculateAgain.csprojResolveAssemblyReference.cache

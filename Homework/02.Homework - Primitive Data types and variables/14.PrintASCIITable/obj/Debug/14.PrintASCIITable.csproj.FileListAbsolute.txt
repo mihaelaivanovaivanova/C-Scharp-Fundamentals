@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

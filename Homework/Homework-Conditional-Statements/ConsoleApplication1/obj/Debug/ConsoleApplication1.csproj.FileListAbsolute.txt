@@ -1,0 +1,9 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework-Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework-Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework-Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

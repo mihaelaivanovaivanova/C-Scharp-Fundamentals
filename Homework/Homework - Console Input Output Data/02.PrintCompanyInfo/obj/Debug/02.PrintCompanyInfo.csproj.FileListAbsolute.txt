@@ -1,0 +1,12 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\bin\Debug\Number1ToN.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\obj\Debug\Number1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\bin\Debug\Number1ToN.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\bin\Debug\Number1ToN.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\obj\Debug\Number1ToN.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\Number1ToN\obj\Debug\Number1ToN.pdb

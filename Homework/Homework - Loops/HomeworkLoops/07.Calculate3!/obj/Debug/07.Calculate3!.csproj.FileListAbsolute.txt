@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\07.Calculate3!\bin\Debug\07.Calculate3!.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\07.Calculate3!\bin\Debug\07.Calculate3!.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\07.Calculate3!\bin\Debug\07.Calculate3!.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\07.Calculate3!\obj\Debug\07.Calculate3!.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\07.Calculate3!\obj\Debug\07.Calculate3!.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework-Conditional-Statements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

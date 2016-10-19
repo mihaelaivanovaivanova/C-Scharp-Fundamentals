@@ -1,0 +1,15 @@
+# Homework-Intro-to-Programing
+
+using System;
+
+
+namespace HelloCSharp
+{
+    class HelloCSharp
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello, C#!");
+        }
+    }
+}

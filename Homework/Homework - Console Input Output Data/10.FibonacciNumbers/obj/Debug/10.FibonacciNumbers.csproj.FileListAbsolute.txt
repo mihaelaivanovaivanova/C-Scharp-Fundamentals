@@ -1,0 +1,12 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

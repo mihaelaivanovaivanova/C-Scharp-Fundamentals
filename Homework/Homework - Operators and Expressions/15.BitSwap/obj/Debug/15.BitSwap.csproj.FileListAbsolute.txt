@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\bin\Debug\15.BitSwap.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\bin\Debug\15.BitSwap.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\obj\Debug\15.BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\obj\Debug\15.BitSwap.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\15.BitSwap\obj\Debug\15.BitSwap.pdb

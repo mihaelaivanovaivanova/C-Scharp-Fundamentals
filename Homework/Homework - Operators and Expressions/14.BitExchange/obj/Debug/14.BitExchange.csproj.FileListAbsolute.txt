@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\bin\Debug\14.BitExchange.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\obj\Debug\14.BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\bin\Debug\14.BitExchange.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\bin\Debug\14.BitExchange.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\obj\Debug\14.BitExchange.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\14.BitExchange\obj\Debug\14.BitExchange.pdb

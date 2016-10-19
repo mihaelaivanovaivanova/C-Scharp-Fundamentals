@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\bin\Debug\Problem01_.exe.config
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\obj\Debug\Problem01_.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\bin\Debug\Problem01_.exe
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\bin\Debug\Problem01_.pdb
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\obj\Debug\Problem01_.exe
+C:\Users\Mihaela\Desktop\C#\Test examples\2011 Exam 1\07.12.2011 Morning\Problem01_\obj\Debug\Problem01_.pdb

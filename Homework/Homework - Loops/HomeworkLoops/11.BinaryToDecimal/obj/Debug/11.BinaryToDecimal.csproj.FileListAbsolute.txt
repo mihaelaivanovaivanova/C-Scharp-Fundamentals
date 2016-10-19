@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.pdb

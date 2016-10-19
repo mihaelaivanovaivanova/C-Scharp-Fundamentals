@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Homework - Primitive Data types and variables\Homework-DataTypes\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

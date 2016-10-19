@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

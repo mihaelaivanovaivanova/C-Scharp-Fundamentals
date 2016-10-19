@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\bin\Debug\04.PrintADeck-String.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\bin\Debug\04.PrintADeck-String.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\bin\Debug\04.PrintADeck-String.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\obj\Debug\04.PrintADeck-String.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\obj\Debug\04.PrintADeck-String.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\04.PrintADeck-String\obj\Debug\04.PrintADeck-String.pdb

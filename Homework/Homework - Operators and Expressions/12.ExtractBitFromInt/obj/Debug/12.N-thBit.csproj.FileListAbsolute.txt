@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\12.ExtractBitFromInt\obj\Debug\12.N-thBit.csprojResolveAssemblyReference.cache

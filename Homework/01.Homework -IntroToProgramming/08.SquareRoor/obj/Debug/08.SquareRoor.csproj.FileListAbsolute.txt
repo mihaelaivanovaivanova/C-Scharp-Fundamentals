@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\08.SquareRoor\bin\Debug\08.SquareRoor.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\08.SquareRoor\bin\Debug\08.SquareRoor.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\08.SquareRoor\bin\Debug\08.SquareRoor.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\08.SquareRoor\obj\Debug\08.SquareRoor.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\08.SquareRoor\obj\Debug\08.SquareRoor.pdb

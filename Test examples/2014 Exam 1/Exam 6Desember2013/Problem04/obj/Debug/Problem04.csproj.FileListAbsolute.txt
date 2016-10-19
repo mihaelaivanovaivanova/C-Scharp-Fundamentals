@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Exam 6Desember2013\Problem04\bin\Debug\Problem04.exe.config
+C:\Users\Mihaela\Desktop\C#\Exam 6Desember2013\Problem04\bin\Debug\Problem04.exe
+C:\Users\Mihaela\Desktop\C#\Exam 6Desember2013\Problem04\bin\Debug\Problem04.pdb
+C:\Users\Mihaela\Desktop\C#\Exam 6Desember2013\Problem04\obj\Debug\Problem04.exe
+C:\Users\Mihaela\Desktop\C#\Exam 6Desember2013\Problem04\obj\Debug\Problem04.pdb

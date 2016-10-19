@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.pdb

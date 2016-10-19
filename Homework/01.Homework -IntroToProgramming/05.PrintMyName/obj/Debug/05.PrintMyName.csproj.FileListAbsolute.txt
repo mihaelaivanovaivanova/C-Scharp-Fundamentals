@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

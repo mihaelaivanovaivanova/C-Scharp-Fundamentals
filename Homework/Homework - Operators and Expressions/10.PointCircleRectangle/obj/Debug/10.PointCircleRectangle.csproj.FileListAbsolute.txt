@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb

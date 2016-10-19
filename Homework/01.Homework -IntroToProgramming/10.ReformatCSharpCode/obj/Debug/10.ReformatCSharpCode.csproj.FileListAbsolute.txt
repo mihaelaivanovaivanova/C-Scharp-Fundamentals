@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\HomeworkIntroToProgramming_19.03.2016\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\03.DevideBy7And5\bin\Debug\03.DevideBy7And5.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\03.DevideBy7And5\bin\Debug\03.DevideBy7And5.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\03.DevideBy7And5\bin\Debug\03.DevideBy7And5.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\03.DevideBy7And5\obj\Debug\03.DevideBy7And5.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\03.DevideBy7And5\obj\Debug\03.DevideBy7And5.pdb

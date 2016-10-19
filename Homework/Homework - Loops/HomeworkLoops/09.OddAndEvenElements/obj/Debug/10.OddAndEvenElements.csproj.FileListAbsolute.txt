@@ -1,0 +1,3 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.OddAndEvenElements\bin\Debug\09.OddAndEvenElements.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.OddAndEvenElements\obj\Debug\09.OddAndEvenElements.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Loops\HomeworkLoops\09.OddAndEvenElements\obj\Debug\09.OddAndEvenElements.pdb

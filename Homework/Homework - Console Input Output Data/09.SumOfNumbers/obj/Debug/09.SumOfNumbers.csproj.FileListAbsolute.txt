@@ -1,0 +1,8 @@
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\HomeworkIntroToProgramming\Solution1\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Console Input Output Data\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.pdb

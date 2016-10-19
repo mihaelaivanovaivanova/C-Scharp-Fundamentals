@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\Mihaela\Desktop\C#\Homework\Homework - Operators and Expressions\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
